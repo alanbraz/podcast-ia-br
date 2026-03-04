@@ -2,7 +2,7 @@
   "redirects": [
     {
       "source": "/(.*)",
-      "destination": "https://open.spotify.com/show/5zHeJgaZsj9WCMXfJoCVmD",
+      "destination": "https://pullrecast.dev",
       "permanent": true
     }
   ]
